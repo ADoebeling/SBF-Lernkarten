@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="714" height="705" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <path d="M3 66 717 66 717 771 3 771Z" fill-rule="evenodd" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-3 -66)">
+    <rect x="4" y="67" width="75" height="76" fill="#D9D9D9"/>
+    <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(36.3685 101)">F<tspan x="-0.746666" y="22">G</tspan>
+  </text>
+  <rect x="4" y="157" width="75" height="75" fill="#D9D9D9"/>
+  <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(16.6218 191)">OC(2).<tspan x="7.33333" y="22">G.6s</tspan>
+</text>
+<rect x="4" y="246" width="75" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(27.2885 281)">ISO<tspan x="8.33333" y="22">G</tspan>
+</text>
+<rect x="4" y="336" width="75" height="75" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(14.5385 370)">LFL(2)<tspan x="9.42" y="22">G.6s</tspan>
+</text>
+<rect x="4" y="425" width="75" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(17.7051 460)">FL(3).<tspan x="6.25333" y="22">G.6s</tspan>
+</text>
+<rect x="4" y="515" width="75" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(33.3718 549)">Q.<tspan x="2.25333" y="22">G</tspan>
+</text>
+<rect x="4" y="605" width="75" height="75" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(21.7885 639)">IQ(6)<tspan x="2.16667" y="22">G.6s</tspan>
+</text>
+<rect x="4" y="694" width="75" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(29.9551 729)">VQ<tspan x="5.66667" y="22">G</tspan>
+</text>
+<rect x="92" y="67" width="248" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 102)">Fixed<tspan font-weight="400" x="0" y="17">Grünes Festfeuer</tspan>
+</text>
+<rect x="92" y="157" width="248" height="75" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 174)">Occulting<tspan font-weight="400" x="0" y="17">Grünes unterbrochenes Feuer </tspan>
+<tspan font-weight="400" x="0" y="35">in 2er Gruppen</tspan>
+<tspan font-weight="400" x="0" y="52">mit 6 Sekunden Wiederkehr</tspan>
+</text>
+<rect x="92" y="246" width="248" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 281)">Isophase<tspan font-weight="400" x="0" y="17">Grünes Gleichtaktfeuer</tspan>
+</text>
+<rect x="92" y="336" width="248" height="75" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 353)">Long <tspan x="36.3333" y="0">Flashing</tspan>
+<tspan font-weight="400" x="0" y="17">Grünes Blinkfeuer </tspan>
+<tspan font-weight="400" x="0" y="35">in 2 Gruppen</tspan>
+<tspan font-weight="400" x="0" y="52">mit 6 Sekunden Wiederkehr</tspan>
+</text>
+<rect x="92" y="425" width="248" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 443)">Flashing<tspan font-weight="400" x="0" y="17">Grünes Blinkfeuer</tspan>
+<tspan font-weight="400" x="0" y="35">in 3er</tspan>
+<tspan font-weight="400" x="37.8333" y="35">-</tspan>
+<tspan font-weight="400" x="44.8333" y="35">Gruppen </tspan>
+<tspan font-weight="400" x="0" y="52">mit 6 Sekunden Wiederkehr</tspan>
+</text>
+<rect x="92" y="515" width="248" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 550)">Quick light<tspan font-weight="400" x="0" y="17">Grünes Funkelfeuer</tspan>
+</text>
+<rect x="92" y="605" width="248" height="75" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 622)">Quick light<tspan font-weight="400" x="0" y="17">Grünes unterbrochen. Funkelfeuer </tspan>
+<tspan font-weight="400" x="0" y="35">in 6er</tspan>
+<tspan font-weight="400" x="37.5" y="35">-</tspan>
+<tspan font-weight="400" x="44.5" y="35">Gruppen </tspan>
+<tspan font-weight="400" x="0" y="52">mit 6 Sekunden Wiederkehr</tspan>
+</text>
+<rect x="92" y="694" width="248" height="76" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 729)">Very quick light<tspan font-weight="400" x="0" y="17">Grünes schnelles Funkelfeuer</tspan>
+</text>
+<rect x="380" y="67" width="336" height="76" fill="#00B050"/>
+<rect x="380" y="157" width="103" height="75" fill="#00B050"/>
+<rect x="491" y="157" width="14" height="75" fill="#00B050"/>
+<rect x="380" y="246" width="67" height="76" fill="#00B050"/>
+<rect x="380" y="336" width="44" height="75" fill="#00B050"/>
+<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 397.099 359)">&gt;= 2s</text>
+<path d="M380 501 393 425 406 501Z" fill="#00B050" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387.826 471)">&gt;<tspan x="9" y="5.51091e-16">2s</tspan>
+</text>
+<path d="M418 501 431 425 444 501Z" fill="#00B050" fill-rule="evenodd"/>
+<rect x="514" y="246" width="67" height="76" fill="#00B050"/>
+<rect x="649" y="246" width="67" height="76" fill="#00B050"/>
+<rect x="514" y="157" width="103" height="75" fill="#00B050"/>
+<rect x="626" y="157" width="14" height="75" fill="#00B050"/>
+<rect x="649" y="157" width="67" height="75" fill="#00B050"/>
+<rect x="438" y="336" width="45" height="75" fill="#00B050"/>
+<rect x="613" y="336" width="45" height="75" fill="#00B050"/>
+<rect x="671" y="336" width="45" height="75" fill="#00B050"/>
+<path d="M457 501 470 425 483 501Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M613 501 626 425 639 501Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M652 501 665 425 678 501Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M690 501 703 425 716 501Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M380 591 388.5 515 397 591Z" fill="#00B050" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 383.612 561)">&lt; 1s</text>
+<path d="M397 591 406 515 415 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M415 591 424 515 433 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M433 591 442 515 451 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M451 591 459.5 515 468 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M468 591 477 515 486 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M486 591 495 515 504 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M504 591 512.5 515 521 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M521 591 530 515 539 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M539 591 548 515 557 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M557 591 566 515 575 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M575 591 583.5 515 592 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M592 591 601 515 610 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M610 591 619 515 628 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M628 591 636.5 515 645 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M645 591 654 515 663 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M663 591 672 515 681 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M681 591 689.5 515 698 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M698 591 707 515 716 591Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M380 680 388.5 605 397 680Z" fill="#00B050" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 383.612 651)">&lt; 1s</text>
+<path d="M397 680 406 605 415 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M415 680 424 605 433 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M433 680 442 605 451 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M451 680 459.5 605 468 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M468 680 477 605 486 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M610 680 619 605 628 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M628 680 636.5 605 645 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M645 680 654 605 663 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M663 680 672 605 681 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M681 680 689.5 605 698 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M698 680 707 605 716 680Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M380 770 384.5 694 389 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M389 770 393 694 397 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M397 770 401.5 694 406 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M406 770 410.5 694 415 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M415 770 419.5 694 424 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M424 770 428.5 694 433 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M433 770 437.5 694 442 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M442 770 446.5 694 451 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M451 770 455 694 459 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M459 770 463.5 694 468 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M468 770 472.5 694 477 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M477 770 481.5 694 486 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M486 770 490.5 694 495 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M495 770 499.5 694 504 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M504 770 508.5 694 513 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M513 770 517 694 521 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M521 770 525.5 694 530 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M530 770 534.5 694 539 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M539 770 543.5 694 548 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M548 770 552.5 694 557 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M557 770 561.5 694 566 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M566 770 570.5 694 575 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M575 770 579 694 583 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M583 770 587.5 694 592 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M592 770 596.5 694 601 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M601 770 605.5 694 610 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M610 770 614.5 694 619 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M619 770 623.5 694 628 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M628 770 632 694 636 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M636 770 640.5 694 645 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M645 770 649.5 694 654 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M654 770 658.5 694 663 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M663 770 667.5 694 672 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M672 770 676.5 694 681 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M681 770 685.5 694 690 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M690 770 694 694 698 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M698 770 702.5 694 707 770Z" fill="#00B050" fill-rule="evenodd"/>
+<path d="M707 770 711.5 694 716 770Z" fill="#00B050" fill-rule="evenodd"/>
+</g>
+</svg>
