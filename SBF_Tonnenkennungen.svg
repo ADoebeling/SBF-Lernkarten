@@ -48,7 +48,7 @@
 <tspan font-weight="400" x="0" y="52">mit 6 Sekunden Wiederkehr</tspan>
 </text>
 <rect x="92" y="425" width="248" height="76" fill="#D9D9D9"/>
-<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 443)">Flashing<tspan font-weight="400" x="0" y="17">Grünes Blinkfeuer</tspan>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 443)">Flashing<tspan font-weight="400" x="0" y="17">Grünes Blitzfeuer</tspan>
 <tspan font-weight="400" x="0" y="35">in 3er</tspan>
 <tspan font-weight="400" x="37.8333" y="35">-</tspan>
 <tspan font-weight="400" x="44.8333" y="35">Gruppen </tspan>
@@ -58,7 +58,8 @@
 <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 550)">Quick light<tspan font-weight="400" x="0" y="17">Grünes Funkelfeuer</tspan>
 </text>
 <rect x="92" y="605" width="248" height="75" fill="#D9D9D9"/>
-<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 622)">Quick light<tspan font-weight="400" x="0" y="17">Grünes unterbrochen. Funkelfeuer </tspan>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(101.817 622)">Interrupted<tspan x="78.1667" y="0">quick light</tspan>
+<tspan font-weight="400" x="0" y="17">Grünes unterbrochen. Funkelfeuer </tspan>
 <tspan font-weight="400" x="0" y="35">in 6er</tspan>
 <tspan font-weight="400" x="37.5" y="35">-</tspan>
 <tspan font-weight="400" x="44.5" y="35">Gruppen </tspan>
@@ -74,7 +75,7 @@
 <rect x="380" y="336" width="44" height="75" fill="#00B050"/>
 <text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 397.099 359)">&gt;= 2s</text>
 <path d="M380 501 393 425 406 501Z" fill="#00B050" fill-rule="evenodd"/>
-<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387.826 471)">&gt;<tspan x="9" y="5.51091e-16">2s</tspan>
+<text fill="#FFFFFF" font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="400" font-size="13" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387.826 476)">1<tspan x="5" y="3.06162e-16">s</tspan>
 </text>
 <path d="M418 501 431 425 444 501Z" fill="#00B050" fill-rule="evenodd"/>
 <rect x="514" y="246" width="67" height="76" fill="#00B050"/>
