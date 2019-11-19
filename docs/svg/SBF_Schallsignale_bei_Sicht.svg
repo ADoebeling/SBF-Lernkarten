@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="674" height="524" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <path d="M21 50 695 50 695 574 21 574Z" fill-rule="evenodd" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-21 -50)">
+    <rect x="21" y="50" width="673" height="40" fill="#D9D9D9"/>
+    <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 77)">Aufmerksamkeit!<tspan font-weight="400" x="336" y="0">4</tspan>
+    <tspan font-weight="400" x="344.333" y="0">-</tspan>
+    <tspan font-weight="400" x="351.333" y="0">6 Sekunden; bspw. bei Hafeneinfahrt</tspan>
+  </text>
+  <rect x="301" y="65" width="38" height="11"/>
+  <rect x="21" y="100" width="673" height="40" fill="#D9D9D9"/>
+  <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.7281 126)">Kursänderung Steuerbord<tspan font-weight="400" x="336" y="0">1 Sekunde</tspan>
+</text>
+<path d="M302 120C302 111.716 308.716 105 317 105 325.284 105 332 111.716 332 120 332 128.284 325.284 135 317 135 308.716 135 302 128.284 302 120Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(313.233 124)">1</text>
+<rect x="21" y="150" width="673" height="40" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.7281 176)">Kursänderung Backbord</text>
+<path d="M302 169.5C302 161.492 308.716 155 317 155 325.284 155 332 161.492 332 169.5 332 177.508 325.284 184 317 184 308.716 184 302 177.508 302 169.5Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(313.233 174)">2</text>
+<path d="M336 169.5C336 161.492 342.716 155 351 155 359.284 155 366 161.492 366 169.5 366 177.508 359.284 184 351 184 342.716 184 336 177.508 336 169.5Z" fill-rule="evenodd"/>
+<rect x="21" y="200" width="673" height="39" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.7281 226)">Maschine achteraus</text>
+<path d="M302 219.5C302 211.492 308.716 205 317 205 325.284 205 332 211.492 332 219.5 332 227.508 325.284 234 317 234 308.716 234 302 227.508 302 219.5Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(313.233 224)">3</text>
+<path d="M336 219.5C336 211.492 342.716 205 351 205 359.284 205 366 211.492 366 219.5 366 227.508 359.284 234 351 234 342.716 234 336 227.508 336 219.5Z" fill-rule="evenodd"/>
+<path d="M370 219.5C370 211.492 376.492 205 384.5 205 392.508 205 399 211.492 399 219.5 399 227.508 392.508 234 384.5 234 376.492 234 370 227.508 370 219.5Z" fill-rule="evenodd"/>
+<rect x="21" y="249" width="673" height="40" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.7281 275)">Hinweis<tspan x="56.3333" y="0">auf</tspan>
+<tspan x="81" y="0">Ausweichpflicht</tspan>
+</text>
+<path d="M302 269C302 260.716 308.716 254 317 254 325.284 254 332 260.716 332 269 332 277.284 325.284 284 317 284 308.716 284 302 277.284 302 269Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(313.233 273)">5</text>
+<path d="M336 269C336 260.716 342.716 254 351 254 359.284 254 366 260.716 366 269 366 277.284 359.284 284 351 284 342.716 284 336 277.284 336 269Z" fill-rule="evenodd"/>
+<path d="M370 269C370 260.716 376.492 254 384.5 254 392.508 254 399 260.716 399 269 399 277.284 392.508 284 384.5 284 376.492 284 370 277.284 370 269Z" fill-rule="evenodd"/>
+<path d="M404 269C404 260.716 410.492 254 418.5 254 426.508 254 433 260.716 433 269 433 277.284 426.508 284 418.5 284 410.492 284 404 277.284 404 269Z" fill-rule="evenodd"/>
+<path d="M438 269C438 260.716 444.492 254 452.5 254 460.508 254 467 260.716 467 269 467 277.284 460.508 284 452.5 284 444.492 284 438 277.284 438 269Z" fill-rule="evenodd"/>
+<rect x="21" y="438" width="673" height="60" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 457)">Aufforderung zum Stoppen<tspan font-weight="400" x="0" y="17">durch Polizei</tspan>
+<tspan font-style="oblique" font-weight="400" x="0" y="35">„</tspan>
+<tspan font-style="oblique" font-weight="400" x="4.66667" y="35">Ent</tspan>
+<tspan font-style="oblique" font-weight="400" x="26.5" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="33.5" y="35">schuldigung</tspan>
+<tspan font-style="oblique" font-weight="400" x="112.5" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="119.5" y="35">Halt</tspan>
+<tspan font-style="oblique" font-weight="400" x="146.333" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="153.333" y="35">Stopp“</tspan>
+</text>
+<rect x="337" y="462" width="38" height="12"/>
+<rect x="21" y="508" width="673" height="59" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 526)">Sperrung Seeschifffahrtsstraße<tspan font-weight="400" x="0" y="17">durch Polizei</tspan>
+<tspan font-style="oblique" font-weight="400" x="0" y="35">„</tspan>
+<tspan font-style="oblique" font-weight="400" x="4.66667" y="35">Keineeee</tspan>
+<tspan font-style="oblique" font-weight="400" x="65" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="72" y="35">Duuuuurch</tspan>
+<tspan font-style="oblique" font-weight="400" x="144.333" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="151.333" y="35">Faaaahrt</tspan>
+<tspan font-style="oblique" font-weight="400" x="210.167" y="35">“</tspan>
+</text>
+<rect x="301" y="533" width="38" height="11"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(316.798 543)">3</text>
+<rect x="345" y="533" width="38" height="11"/>
+<rect x="390" y="533" width="37" height="11"/>
+<rect x="470" y="533" width="38" height="11"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(485.565 543)">3</text>
+<rect x="514" y="533" width="38" height="11"/>
+<rect x="559" y="533" width="37" height="11"/>
+<path d="M301 468.5C301 460.492 307.716 454 316 454 324.284 454 331 460.492 331 468.5 331 476.508 324.284 483 316 483 307.716 483 301 476.508 301 468.5Z" fill-rule="evenodd"/>
+<path d="M381 468C381 459.716 387.492 453 395.5 453 403.508 453 410 459.716 410 468 410 476.284 403.508 483 395.5 483 387.492 483 381 476.284 381 468Z" fill-rule="evenodd"/>
+<path d="M413 468.5C413 460.492 419.492 454 427.5 454 435.508 454 442 460.492 442 468.5 442 476.508 435.508 483 427.5 483 419.492 483 413 476.508 413 468.5Z" fill-rule="evenodd"/>
+<rect x="21" y="299" width="673" height="60" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 326)">Gefahr<tspan x="44.3333" y="0">-</tspan>
+<tspan x="55.3333" y="0">und Warnsignal</tspan>
+<tspan font-style="oblique" font-weight="400" x="0" y="17">„</tspan>
+<tspan font-style="oblique" font-weight="400" x="4.66667" y="17">Eeeeeeees</tspan>
+<tspan font-style="oblique" font-weight="400" x="80" y="17">be</tspan>
+<tspan font-style="oblique" font-weight="400" x="95.8333" y="17">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="102.833" y="17">steht</tspan>
+<tspan font-style="oblique" font-weight="400" x="136.167" y="17">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="143.167" y="17">Ge</tspan>
+<tspan font-style="oblique" font-weight="400" x="160.5" y="17">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="167.5" y="17">Fahr“</tspan>
+</text>
+<path d="M345 328.5C345 320.492 351.492 314 359.5 314 367.508 314 374 320.492 374 328.5 374 336.508 367.508 343 359.5 343 351.492 343 345 336.508 345 328.5Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(356.038 333)">4</text>
+<path d="M379 328.5C379 320.492 385.492 314 393.5 314 401.508 314 408 320.492 408 328.5 408 336.508 401.508 343 393.5 343 385.492 343 379 336.508 379 328.5Z" fill-rule="evenodd"/>
+<path d="M413 328.5C413 320.492 419.492 314 427.5 314 435.508 314 442 320.492 442 328.5 442 336.508 435.508 343 427.5 343 419.492 343 413 336.508 413 328.5Z" fill-rule="evenodd"/>
+<path d="M447 328.5C447 320.492 453.492 314 461.5 314 469.508 314 476 320.492 476 328.5 476 336.508 469.508 343 461.5 343 453.492 343 447 336.508 447 328.5Z" fill-rule="evenodd"/>
+<rect x="302" y="323" width="38" height="11"/>
+<path d="M562 328.5C562 320.492 568.716 314 577 314 585.284 314 592 320.492 592 328.5 592 336.508 585.284 343 577 343 568.716 343 562 336.508 562 328.5Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(573.651 333)">4</text>
+<path d="M596 328.5C596 320.492 602.716 314 611 314 619.284 314 626 320.492 626 328.5 626 336.508 619.284 343 611 343 602.716 343 596 336.508 596 328.5Z" fill-rule="evenodd"/>
+<path d="M630 328.5C630 320.492 636.716 314 645 314 653.284 314 660 320.492 660 328.5 660 336.508 653.284 343 645 343 636.716 343 630 336.508 630 328.5Z" fill-rule="evenodd"/>
+<path d="M664 328.5C664 320.492 670.716 314 679 314 687.284 314 694 320.492 694 328.5 694 336.508 687.284 343 679 343 670.716 343 664 336.508 664 328.5Z" fill-rule="evenodd"/>
+<rect x="520" y="323" width="37" height="11"/>
+<rect x="21" y="368" width="673" height="61" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 387)">Bleib-Weg<tspan x="68.3333" y="0">-</tspan>Signal<tspan font-weight="400" x="0" y="17">durch Gefährder</tspan>
+<tspan font-style="oblique" font-weight="400" x="0" y="35">„Bleib</tspan>
+<tspan font-style="oblique" font-weight="400" x="37.8333" y="35">-</tspan>
+<tspan font-style="oblique" font-weight="400" x="44.8333" y="35">weeeeeeeeg</tspan>
+<tspan font-style="oblique" font-weight="400" x="126.667" y="35">“</tspan>
+</text>
+<path d="M379 397.5C379 389.492 385.716 383 394 383 402.284 383 409 389.492 409 397.5 409 405.508 402.284 412 394 412 385.716 412 379 405.508 379 397.5Z" fill-rule="evenodd"/>
+<rect x="336" y="392" width="38" height="12"/>
+<path d="M456 397C456 388.716 462.716 382 471 382 479.284 382 486 388.716 486 397 486 405.284 479.284 412 471 412 462.716 412 456 405.284 456 397Z" fill-rule="evenodd"/>
+<rect x="414" y="392" width="37" height="11"/>
+<path d="M534 397.5C534 389.492 540.716 383 549 383 557.284 383 564 389.492 564 397.5 564 405.508 557.284 412 549 412 540.716 412 534 405.508 534 397.5Z" fill-rule="evenodd"/>
+<rect x="491" y="392" width="38" height="12"/>
+<path d="M301 397.5C301 389.492 307.716 383 316 383 324.284 383 331 389.492 331 397.5 331 405.508 324.284 412 316 412 307.716 412 301 405.508 301 397.5Z" fill-rule="evenodd"/>
+<rect x="569" y="392" width="37" height="11"/>
+</g>
+</svg>

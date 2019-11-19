@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="675" height="390" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <path d="M20 611 695 611 695 1001 20 1001Z" fill-rule="evenodd" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-20 -611)">
+    <rect x="21" y="662" width="673" height="39" fill="#D9D9D9"/>
+    <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.728 688)">Maschinenfzg<tspan x="90.1667" y="0">. in Fahrt d. Wasser</tspan>
+    <tspan font-weight="400" x="432" y="0">Alle 2 Minuten 4 </tspan>
+    <tspan font-weight="400" x="541.833" y="0">–</tspan>
+    <tspan font-weight="400" x="554" y="0">6 Sekunden</tspan>
+  </text>
+  <rect x="301" y="676" width="38" height="11"/>
+  <rect x="20" y="711" width="674" height="40" fill="#D9D9D9"/>
+  <text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 737)">Maschinenfzg. ohne Fahrt d. Wasser<tspan font-weight="400" x="432" y="0">Alle 2 Minuten 4 </tspan>
+  <tspan font-weight="400" x="541.833" y="0">–</tspan>
+  <tspan font-weight="400" x="554" y="0">6 Sekunden</tspan>
+</text>
+<rect x="301" y="726" width="37" height="11"/>
+<rect x="347" y="726" width="38" height="11"/>
+<rect x="20" y="761" width="674" height="40" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 779)">Manövrierbehindert/-unfähig<tspan x="192" y="0">,</tspan>
+<tspan font-weight="400" x="480" y="0">Alle </tspan>
+<tspan font-weight="400" x="509.667" y="0">2 </tspan>
+<tspan font-weight="400" x="521.167" y="0">Minuten</tspan>
+<tspan x="0" y="17">Tiefgangbehindert, Fischer und Segler</tspan>
+</text>
+<rect x="301" y="776" width="37" height="11"/>
+<path d="M344 781C344 772.716 350.716 766 359 766 367.284 766 374 772.716 374 781 374 789.284 367.284 796 359 796 350.716 796 344 789.284 344 781Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(355.607 786)">2</text>
+<path d="M379 781.5C379 773.492 385.716 767 394 767 402.284 767 409 773.492 409 781.5 409 789.508 402.284 796 394 796 385.716 796 379 789.508 379 781.5Z" fill-rule="evenodd"/>
+<rect x="20" y="612" width="674" height="39" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 638)">Fahrzeug &lt; 12m<tspan font-weight="400" x="432" y="0">Alle 2 Minuten ein Geräusch</tspan>
+</text>
+<path d="M316 625.056 321.169 617 320.66 624.396 326.528 623.19 324.197 627.16 330.301 628.301 325.454 631.549 331 635.458 324.385 634.975 326.201 642.132 320.472 637.079 319.399 644.412 315.628 637.743 312.785 647 311.715 638.704 307.614 641.468 308.871 636.357 301.188 637.26 306.169 633.354 301 628.965 307.426 627.579 301.514 620.188 311.156 625.778 312.6 620.188Z" fill-rule="evenodd"/>
+<rect x="20" y="811" width="674" height="40" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 837)">Letztes bemanntes geschlepptes <tspan x="220.667" y="0">Fzg</tspan>
+<tspan x="244" y="0">.</tspan>
+<tspan font-weight="400" x="480" y="0">Nach Schlepper</tspan>
+</text>
+<rect x="301" y="825" width="37" height="12"/>
+<path d="M344 831C344 822.716 350.716 816 359 816 367.284 816 374 822.716 374 831 374 839.284 367.284 846 359 846 350.716 846 344 839.284 344 831Z" fill-rule="evenodd"/>
+<text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="14" transform="translate(355.607 836)">4</text>
+<path d="M379 831.5C379 823.492 385.716 817 394 817 402.284 817 409 823.492 409 831.5 409 839.508 402.284 846 394 846 385.716 846 379 839.508 379 831.5Z" fill-rule="evenodd"/>
+<rect x="20" y="861" width="674" height="39" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 887)">Ankerlieger &lt; 100 m<tspan font-weight="400" x="432" y="0">Jede Minute Glocke 5 Sek. läuten</tspan>
+</text>
+<path d="M414 831.5C414 823.492 420.716 817 429 817 437.284 817 444 823.492 444 831.5 444 839.508 437.284 846 429 846 420.716 846 414 839.508 414 831.5Z" fill-rule="evenodd"/>
+<path d="M449 831.5C449 823.492 455.492 817 463.5 817 471.508 817 478 823.492 478 831.5 478 839.508 471.508 846 463.5 846 455.492 846 449 839.508 449 831.5Z" fill-rule="evenodd"/>
+<path d="M301.5 890.5 301.5 879C301.5 872.649 306.201 867.5 312 867.5 317.799 867.5 322.5 872.649 322.5 879L322.5 890.5Z" stroke="#000000" stroke-miterlimit="8" fill="#D9D9D9" fill-rule="evenodd"/>
+<path d="M315 891C315 889.343 316.343 888 318 888 319.657 888 321 889.343 321 891 321 892.657 319.657 894 318 894 316.343 894 315 892.657 315 891Z" fill-rule="evenodd"/>
+<path d="M318.528 894.799 312.5 867.5" stroke="#000000" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+<rect x="20" y="911" width="674" height="39" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 928)">Ankerlieger &gt; 100 m<tspan font-weight="400" x="432" y="0">Jede Minute Glocke 5 Sek. läuten</tspan>
+<tspan font-weight="400" x="432" y="17">danach Gong 5 Sek. läuten</tspan>
+</text>
+<path d="M301.5 940.5 301.5 929C301.5 922.649 306.201 917.5 312 917.5 317.799 917.5 322.5 922.649 322.5 929L322.5 940.5Z" stroke="#000000" stroke-miterlimit="8" fill="#D9D9D9" fill-rule="evenodd"/>
+<path d="M315 941C315 939.343 316.343 938 318 938 319.657 938 321 939.343 321 941 321 942.657 319.657 944 318 944 316.343 944 315 942.657 315 941Z" fill-rule="evenodd"/>
+<path d="M318.528 944.799 312.5 917.5" stroke="#000000" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+<path d="M332.5 929C332.5 922.649 334.291 917.5 336.5 917.5 338.709 917.5 340.5 922.649 340.5 929 340.5 935.351 338.709 940.5 336.5 940.5 334.291 940.5 332.5 935.351 332.5 929Z" stroke="#000000" stroke-miterlimit="8" fill="#D9D9D9" fill-rule="evenodd"/>
+<path d="M346.965 937.886 336.5 921.5" stroke="#000000" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+<path d="M336 924C336 922.343 337.119 921 338.5 921 339.881 921 341 922.343 341 924 341 925.657 339.881 927 338.5 927 337.119 927 336 925.657 336 924Z" fill-rule="evenodd"/>
+<rect x="20" y="960" width="674" height="40" fill="#D9D9D9"/>
+<text font-family="Bahnschrift,Bahnschrift_MSFontService,sans-serif" font-weight="700" font-size="15" transform="translate(30.0903 986)">Positionssignal d. Ankerliegers<tspan font-weight="400" x="432" y="0">bei Bedarf / „Angst“</tspan>
+</text>
+<rect x="336" y="975" width="38" height="11"/>
+<path d="M380 980.5C380 972.492 386.492 966 394.5 966 402.508 966 409 972.492 409 980.5 409 988.508 402.508 995 394.5 995 386.492 995 380 988.508 380 980.5Z" fill-rule="evenodd"/>
+<path d="M301 980.5C301 972.492 307.492 966 315.5 966 323.508 966 330 972.492 330 980.5 330 988.508 323.508 995 315.5 995 307.492 995 301 988.508 301 980.5Z" fill-rule="evenodd"/>
+</g>
+</svg>
